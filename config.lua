@@ -7,6 +7,6 @@ Config.Props = {
     },
     [2] = {
         model = "v_ret_ml_tablea",
-        coords = vector4(-633.52, -1244.95, 16.86, 344.78),
+        coords = vector4(-633.52, -1244.95, 16.86+0.9, 344.78),
     },
 }
