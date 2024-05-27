@@ -1,8 +1,8 @@
 Config = {}
 
 Config.Props = {
-    [1] = {     -- Delete this prop and replace it with what you like.
-        model = "prop_tool_bench02_ld",
-        coords = vector4(3817.12, 4442.12, 2.81, 8.18),
+    [1] = {
+        model = "bkr_prop_meth_table01a",
+        coords = vector4(1609.5, 3574.56, 38.78-0.9, 115.54),
     },
 }
